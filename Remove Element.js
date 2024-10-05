@@ -33,7 +33,7 @@ var removeElement = function(nums, val) {
         
     }
   
- return count
+ return nums
     
 };
 
